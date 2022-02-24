@@ -3,4 +3,4 @@
 
 * [HOME](./)
 
-* [Contact](./contact/index)
+* [Contact](./contact)
